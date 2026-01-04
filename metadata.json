@@ -1,0 +1,8 @@
+{
+  "name": "SignBridge (PontSignes)",
+  "description": "An AI-powered sign language translator for Canadian French (LSQ) and English (ASL), featuring an interactive avatar for two-way communication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
